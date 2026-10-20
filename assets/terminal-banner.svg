@@ -1,0 +1,12 @@
+<svg viewBox="0 0 840 240" xmlns="http://www.w3.org/2000/svg">
+              <rect width="840" height="240" fill="#121b24"/><path d="M0 31h840" stroke="#2c3c48"/>
+              <circle cx="19" cy="16" r="4" fill="#ed6a5e"/><circle cx="33" cy="16" r="4" fill="#f4bf4f"/><circle cx="47" cy="16" r="4" fill="#61c454"/>
+              <text x="68" y="20" fill="#78909b" font-size="10" font-family="monospace">aloong@github: ~</text>
+              <text x="36" y="79" fill="#81cdb1" font-size="12" font-family="monospace">$ whoami</text>
+              <text x="34" y="132" fill="#e3eee7" font-size="42" font-family="monospace" font-weight="bold">Hello, Aloong<tspan fill="#8de0b0">_</tspan></text>
+              <text x="36" y="170" fill="#b1c6c9" font-size="16" font-family="monospace">Agents / LLM Post-training</text>
+              <text x="36" y="210" fill="#789f91" font-size="11" font-family="monospace">&gt; stay curious. keep building.</text>
+              <g shape-rendering="crispEdges" fill="#8de0b0"><path d="M649 84h14v14h-14zM705 84h14v14h-14zM635 98h98v56h-98zM621 112h14v28h-14zM733 112h14v28h-14zM649 154h14v14h-14zM705 154h14v14h-14zM663 70h42v14h-42z"/></g>
+              <g fill="#121b24" shape-rendering="crispEdges"><path d="M649 112h14v14h-14zM705 112h14v14h-14zM663 140h42v7h-42z"/></g>
+              <path d="M617 188h138" stroke="#345144" stroke-width="2"/><text x="647" y="209" fill="#81cdb1" font-size="10" font-family="monospace">hello, world!</text>
+            </svg>
