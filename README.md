@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/terminal-banner.svg" alt="Hello, Aloong — Agents / LLM Post-training" width="840" />
+  <img src="assets/terminal-banner.svg" alt="Hello, Aloong — Agent / LLM Post-training" width="840" />
 </p>
 
 # <samp>&gt; hello, world.</samp> 👾

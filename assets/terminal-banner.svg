@@ -4,7 +4,7 @@
               <text x="68" y="20" fill="#78909b" font-size="10" font-family="monospace">aloong@github: ~</text>
               <text x="36" y="79" fill="#81cdb1" font-size="12" font-family="monospace">$ whoami</text>
               <text x="34" y="132" fill="#e3eee7" font-size="42" font-family="monospace" font-weight="bold">Hello, Aloong<tspan fill="#8de0b0">_</tspan></text>
-              <text x="36" y="170" fill="#b1c6c9" font-size="16" font-family="monospace">Agents / LLM Post-training</text>
+              <text x="36" y="170" fill="#b1c6c9" font-size="16" font-family="monospace">Agent / LLM Post-training</text>
               <text x="36" y="210" fill="#789f91" font-size="11" font-family="monospace">&gt; stay curious. keep building.</text>
               <g shape-rendering="crispEdges" fill="#8de0b0"><path d="M649 84h14v14h-14zM705 84h14v14h-14zM635 98h98v56h-98zM621 112h14v28h-14zM733 112h14v28h-14zM649 154h14v14h-14zM705 154h14v14h-14zM663 70h42v14h-42z"/></g>
               <g fill="#121b24" shape-rendering="crispEdges"><path d="M649 112h14v14h-14zM705 112h14v14h-14zM663 140h42v7h-42z"/></g>
